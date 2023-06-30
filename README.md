@@ -3,11 +3,11 @@
 ## co-do
 ![Coding Girl](./kodogaru.png)
 
-##koisuru
--[syo-to](./kannsuudir/syo-to.py)
+## koisuru
+- [syo-to](./kannsuudir/syo-to.py)
 
--[rongu](./kannsuudir/rongu.py)
+- [rongu](./kannsuudir/rongu.py)
 
--[poni-](./kannsuudir/poni-.py)
+- [poni-](./kannsuudir/poni-.py)
 
--[tuinn](./kannsuudir/tuinn.py)
+- [tuinn](./kannsuudir/tuinn.py)
